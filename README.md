@@ -1,3 +1,4 @@
 - Hi, I’m @YEET78
 - I’m interested in JavaScript/Node.js and all kinds of gaming API's
-- Contact me on Discord: DANG1172#3417
+- Contact me on Discord: dang1172
+- 
